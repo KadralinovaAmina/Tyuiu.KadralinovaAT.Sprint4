@@ -31,7 +31,7 @@ Console.WriteLine("Результирующий массив:");
 
 int res = ds.GetSumEvenArrEl(numsArray);
 
-Console.WriteLine("Сумма четных элементов: " + res); 
+Console.WriteLine("Сумма четных элементов: " + res);
 
 Console.WriteLine();
 Console.ReadKey();

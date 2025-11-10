@@ -12,8 +12,8 @@ Console.Title = "Спринт #4 | Выполнила: Кадралинова А
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* Спринт #4                                                               *");
 Console.WriteLine("* Тема: Двумерные массивы                                                 *");
-Console.WriteLine("* Задание #1                                                              *");
-Console.WriteLine("* Вариант #3                                                              *");
+Console.WriteLine("* Задание #3                                                              *");
+Console.WriteLine("* Вариант #22                                                             *");
 Console.WriteLine("* Выполнила: Кадралинова Амина Тастемировна | ПИНб-25-1                   *");
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                *");
